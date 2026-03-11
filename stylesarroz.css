@@ -1,0 +1,101 @@
+body {
+    background-color: #8aed8a;
+}
+
+.pagelinks3{
+    padding:10px;
+    color:#197c40
+}
+
+.tablepagelinks3 {
+    border:groove 4px #6a4913;
+    margin-top:25px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    margin-bottom:55px;
+    font-size:26px;
+}
+
+h2 {
+    text-align:center;
+    margin-bottom: 34px;
+    font-size:30px;
+    color:#6a4913
+}
+
+.topimages{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p1 {
+    color:#624411;
+    text-align: center;
+    display:block;
+    font-size: 22px;
+    width:800px;
+    margin:auto;
+    margin-top:72px;
+     margin-bottom:75px;
+    background-color:#f4e7c3;
+    padding:10px;
+    border:dotted 4px;
+    word-spacing:1px;
+    line-height:1.25
+}
+
+.whattoknowa{
+    margin-left: auto;
+    margin-right: auto;
+    font-size:20px;
+}
+
+.maintable {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:70px; 
+    margin-top:40px;
+    line-height: 2;
+    font-size:19px;
+}
+
+.ingredients {
+    list-style-type:square;
+}
+
+h4{
+    font-size:19px;
+}
+
+.notesarr {
+    font-size:19px;
+}
+
+.imggallery {
+    margin-left: auto;
+    margin-right: auto;
+    border:dotted 6px #02903a;
+    
+}
+
+
+.imgcell {
+    padding-right: 14px;
+    padding-left: 14px;
+    
+}
+
+#waterwseasonings {
+    border-left:dotted #02903a 6px;
+    border-right:dotted #02903a 6px;
+}
+
+#topimage1 {
+    padding-right:10px;
+    
+}
+#topimage2 {
+    padding-left:10px;
+    padding-right:10px
+}

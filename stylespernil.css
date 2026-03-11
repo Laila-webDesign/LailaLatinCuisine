@@ -1,0 +1,111 @@
+body {
+    background-color:#ffa1c9
+}
+
+.table1 {
+    border:groove 4px black;
+    margin-top:25px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    margin-bottom:50px;
+    font-size:26px;
+    
+}
+
+.pagelinks2 {
+    color:#ff2a7b;
+    padding:10px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color:#ac1a51
+}
+
+.table2{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    margin-bottom:50px;
+    margin-top:25px;
+  
+}
+
+#topim1per {
+    padding-right:10px;
+}
+
+#topim2per {
+    padding-left:10px;
+}
+
+
+.p1 {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-size:25px;
+    color:#ac1a51;
+    width:800px;
+    margin-top:78px;
+    
+}
+
+h4 {
+    margin-top:75px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-size:20px;
+}
+
+.whattoknowp {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:84px;
+    font-size:20px;
+}
+
+
+.table3 {
+    margin-top:82px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 19px;
+    margin-bottom:150px;
+
+}
+
+.ingredients {
+    list-style-type:square;
+    line-height: 2;
+}
+
+.instructions {
+    line-height: 2;
+}
+
+.picgallery {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border:dotted 6px #931746;
+     padding-right: 14px;
+    padding-left: 14px;
+    
+}
+
+
+.bottomcleanpernil {
+    border-left:dotted 6px #931746;
+    border-right:dotted 6px #931746;
+     padding-right: 14px;
+    padding-left: 14px;
+}
+
+.bottomsper {
+     padding-right: 14px;
+    padding-left: 14px;
+}

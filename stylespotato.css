@@ -1,0 +1,94 @@
+body {
+    background-color:#fcf884;
+}
+
+.pagelinks4 {
+    color:#2aacff;
+    padding:10px;
+}
+
+.table1ps {
+    border:groove 4px #008b21;
+    margin-top:25px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    margin-bottom:50px;
+    font-size:26px;
+}
+
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color:#19a434
+}
+
+.topimages{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    border:dotted 4px #2aacff;
+}
+
+.pps {
+    color:#15882c;
+    text-align: center;
+    display:block;
+    font-size: 25px;
+    width:800px;
+    margin:auto;
+    margin-top:72px;
+     margin-bottom:75px;
+    background-color: rgba(225, 253, 255, 0.77);
+    padding:10px;
+    border:dotted 4px #2e53f7;
+    word-spacing:1px;
+    line-height:1.25
+}
+
+.whattoknowps{
+    margin-left: auto;
+    margin-right: auto;
+    font-size:20px;
+}
+
+.maintableps {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:70px; 
+    margin-top:40px;
+    line-height: 2;
+    font-size:19px;
+}
+
+.ingredientsps{
+    list-style-type:square;
+}
+
+.imggallery {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:100px;
+    border:dotted 6px #2a52ff;
+    
+}
+
+
+#boilpotatoes {
+    border-left:dotted #2a52ff 6px;
+    border-right:dotted #2a52ff 6px; 
+}
+
+.bottomimgs {
+     padding-right: 14px;
+    padding-left: 14px;
+}
+
+.notes {
+    font-size:19px;
+}
+
+h4{
+    font-size:20px;
+}
